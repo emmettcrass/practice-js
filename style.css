@@ -3,7 +3,10 @@
   flex: center;
   border: 1px red dotted;
   border-radius: 40px;
-  justify-content: flex-end;
-
+  align-items: center;
+  justify-self: flex-end;
   width: 30%;
+  background-color: lightseagreen;
+  color: white;
+  box-shadow: rgb(82, 81, 81) 8px 8px 6px;
 }
