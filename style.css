@@ -1,0 +1,9 @@
+.midBox {
+  display: flex;
+  flex: center;
+  border: 1px red dotted;
+  border-radius: 40px;
+  justify-content: flex-end;
+
+  width: 30%;
+}
